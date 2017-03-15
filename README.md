@@ -5,7 +5,7 @@ This is a simple project to send usage information of your computer to your Ardu
 ## How It Works
 
 A small and straightforward .NET application works as a server to send information to a usb-connected Arduino board.
-The Arduino board is interfaced with an Hitachi-like 16x2 display in order to visualize the above-mentioned information.
+The Arduino board is interfaced with a Hitachi-like 16x2 display in order to visualize the above-mentioned information.
 Moreover a LM35 is used to measure the air temperature inside the case, therefore it should be properly positioned.
 
 1. First of all, follow the schematic to set the circuit up;
